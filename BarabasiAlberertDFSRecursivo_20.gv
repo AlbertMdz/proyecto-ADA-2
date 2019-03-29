@@ -1,0 +1,6 @@
+graph arbolDFS_DFSRecursivo{
+N_19 -- N_1;
+N_19 -- N_0;
+N_19 -- N_3;
+N_19 -- N_2;
+}
